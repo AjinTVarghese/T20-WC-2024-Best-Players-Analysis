@@ -58,4 +58,4 @@ Utilized Power BI to:
 ## Dataset:
 - https://github.com/AjinTVarghese/T20-WC-2024-Best-Players-Analysis
 ## 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒕𝒉𝒆 𝑫𝒂𝒔𝒉𝒃𝒐𝒂𝒓𝒅 𝒉𝒆𝒓𝒆:
-- 
+- https://github.com/AjinTVarghese/T20-WC-2024-Best-Players-Analysis/blob/main/T20%20WC%202024.pdf
